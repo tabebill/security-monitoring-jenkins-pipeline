@@ -180,7 +180,7 @@ pipeline {
         }
         stage('Checkout from Git') {
             steps {
-                git branch: 'main', url: 'https://github.com/N4si/DevSecOps-Project.git'
+                git branch: 'smjp', url: 'https://github.com/tabebill/security-monitoring-jenkins-pipeline.git'
             }
         }
         stage("Sonarqube Analysis") {
@@ -732,3 +732,9 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 
 1. **Cleanup AWS EC2 Instances:**
     - Terminate AWS EC2 instances that are no longer needed.
+
+    ## Acknowledgements
+
+Special thanks to [Cloud Champ](https://www.youtube.com/@cloudchamp) for their insightful video tutorial on this [DevSecOps Pipeline](https://www.youtube.com/watch?v=g8X5AoqCJHc). Their explanation and guidance greatly contributed to this project.
+
+![Cloud Champ](https://yt3.googleusercontent.com/V4nPnlqpKqH_IRDMcxJK6grZGBHORPoTPh4NiuidtBTz7bNduN99vBIwt5Cei5r0f4aeyj4g=s176-c-k-c0x00ffffff-no-rj)
