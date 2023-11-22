@@ -735,6 +735,6 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 
     ## Acknowledgements
 
-Special thanks to [Cloud Champ](https://www.youtube.com/@cloudchamp) for their insightful video tutorial on this [DevSecOps Pipeline](https://www.youtube.com/watch?v=g8X5AoqCJHc). Their explanation and guidance greatly contributed to this project.
+Special thanks to [Cloud Champ](https://www.youtube.com/@cloudchamp) for his insightful video tutorial on this [DevSecOps Pipeline](https://www.youtube.com/watch?v=g8X5AoqCJHc). His explanation and guidance greatly contributed to this project.
 
 ![Cloud Champ](https://yt3.googleusercontent.com/V4nPnlqpKqH_IRDMcxJK6grZGBHORPoTPh4NiuidtBTz7bNduN99vBIwt5Cei5r0f4aeyj4g=s176-c-k-c0x00ffffff-no-rj)
